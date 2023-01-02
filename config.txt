@@ -1,0 +1,3 @@
+token = NzA4MjU4NDg5ODc2ODczMzE3.GZjtX8.MKvftohO5ggtFH2f791oOGg8Odf5D6plMS3lMI
+owner = 463351293583425536
+prefix = "m!"
